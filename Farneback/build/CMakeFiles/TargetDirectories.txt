@@ -1,0 +1,3 @@
+/home/jason/github/Stripe_direction/src/build/CMakeFiles/rebuild_cache.dir
+/home/jason/github/Stripe_direction/src/build/CMakeFiles/stripe_direction.dir
+/home/jason/github/Stripe_direction/src/build/CMakeFiles/edit_cache.dir
